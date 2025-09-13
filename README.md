@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-**Author:** Yarin S  
+**Author:** Yarin S , Shahaf L.
 
 This project predicts Titanic passenger survival using supervised learning.
 
